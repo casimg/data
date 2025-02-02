@@ -1,32 +1,32 @@
 {
-  "dataVersion": 6,
+  "dataVersion": 7,
   "images": [
     {
-      "url": "https://github.com/casimg/data/blob/main/Animal/Cat/0.png?raw=true",
+      "url": "https://github.com/casimg/data/blob/main/Animal/Cats/0.png?raw=true",
       "premium": false
     },
     {
-      "url": "https://github.com/casimg/data/blob/main/Animal/Cat/1.png?raw=true",
+      "url": "https://github.com/casimg/data/blob/main/Animal/Cats/1.png?raw=true",
       "premium": true
     },
     {
-      "url": "https://github.com/casimg/data/blob/main/Animal/Cat/3.png?raw=true",
+      "url": "https://github.com/casimg/data/blob/main/Animal/Cats/3.png?raw=true",
       "premium": true
     },
     {
-      "url": "https://github.com/casimg/data/blob/main/Animal/Cat/4.png?raw=true",
+      "url": "https://github.com/casimg/data/blob/main/Animal/Cats/4.png?raw=true",
       "premium": true
     },
     {
-      "url": "https://github.com/casimg/data/blob/main/Animal/Cat/5.png?raw=true",
+      "url": "https://github.com/casimg/data/blob/main/Animal/Cats/5.png?raw=true",
       "premium": true
     },
     {
-      "url": "https://github.com/casimg/data/blob/main/Animal/Dog/0.png?raw=true",
+      "url": "https://github.com/casimg/data/blob/main/Animal/Dogs/0.png?raw=true",
       "premium": true
     },
     {
-      "url": "https://github.com/casimg/data/blob/main/Animal/Dog/1.png?raw=true",
+      "url": "https://github.com/casimg/data/blob/main/Animal/Dogs/1.png?raw=true",
       "premium": true
     },
     {
