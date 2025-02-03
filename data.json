@@ -1,34 +1,29 @@
 {
-  "dataVersion": 9,
+  "dataVersion": 10,
   "images": [
     {
-      "url": "https://github.com/casimg/data/blob/main/Animal/Cats/1.jpg?raw=true",
-      "premium": false
+      "url": "Animal/Cats/1.jpg"
     },
     {
-      "url": "https://github.com/casimg/data/blob/main/Animal/Cats/10.jpg?raw=true"
+      "url": "Animal/Cats/10.jpg"
     },
     {
-      "url": "https://github.com/casimg/data/blob/main/Animal/Cats/100.jpg?raw=true",
-      "premium": true
+      "url": "Animal/Cats/100.jpg"
     },
     {
-      "url": "https://github.com/casimg/data/blob/main/Animal/Cats/101.jpg?raw=true"
+      "url": "Animal/Cats/101.jpg"
     },
     {
-      "url": "https://github.com/casimg/data/blob/main/Animal/Cats/102.jpg?raw=true"
+      "url": "Animal/Cats/102.jpg"
     },
     {
-      "url": "https://github.com/casimg/data/blob/main/Animal/Dogs/1.jpg?raw=true",
-      "premium": true
+      "url": "Animal/Dogs/1.jpg"
     },
     {
-      "url": "https://github.com/casimg/data/blob/main/Animal/Dogs/10.jpg?raw=true",
-      "premium": true
+      "url": "Animal/Dogs/10.jpg"
     },
     {
-      "url": "https://github.com/casimg/data/blob/main/Anime/Naruto/1.png?raw=true",
-      "premium": true
+      "url": "Anime/Naruto/1.png"
     }
   ]
 }
