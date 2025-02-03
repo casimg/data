@@ -1,21 +1,25 @@
 {
   "dataVersion": 11,
-  "image": [
+  "images": [
     {
       "category": "Animal",
       "label": "Cats",
+      "total": 10
     },
     {
       "category": "Animal",
       "label": "Dogs",
+      "total": 10
     },
     {
       "category": "Anime",
       "label": "Naruto",
+      "total": 10
     },
     {
       "category": "Anime",
       "label": "AOT",
+      "total": 10
     }
   ]
 }
