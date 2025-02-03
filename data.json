@@ -2,34 +2,24 @@
   "dataVersion": 10,
   "images": [
     {
-      "url": "Animal/Cats/1.jpgss"
+      "category": "Animal",
+      "label": "Cats",
+      "total": 10,
     },
     {
-      "url": "Animal/Cats/10.jpg"
+      "category": "Animal",
+      "label": "Dogs",
+      "total": 10,
     },
     {
-      "url": "Animal/Cats/100.jpg"
+      "category": "Anime",
+      "label": "Naruto",
+      "total": 102,
     },
     {
-      "url": "Animal/Cats/101.jpg"
-    },
-    {
-      "url": "Animal/Cats/102.jpg"
-    },
-    {
-      "url": "Animal/Dogs/1.jpg"
-    },
-    {
-      "url": "Animal/Dogs/10.jpg"
-    },
-    {
-      "url": "Anime/Naruto/1.png"
-    },
-    {
-      "url": "Anime/Naruto/1.png"
-    },
-    {
-      "url": "Anime/Naruto/1.png"
+      "category": "Anime",
+      "label": "AOT",
+      "total": 102,
     }
   ]
 }
