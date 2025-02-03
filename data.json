@@ -13,6 +13,11 @@
     },
     {
       "category": "Anime",
+      "label": "Banner",
+      "total": 9
+    },
+    {
+      "category": "Anime",
       "label": "Naruto",
       "total": 44
     },
