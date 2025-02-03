@@ -4,17 +4,79 @@
     {
       "category": "Animal",
       "label": "Cats",
-      "total": 10
+      "total": 234
     },
     {
       "category": "Animal",
       "label": "Dogs",
-      "total": 10
+      "total": 157
     },
+    {
+      "category": "Animal",
+      "label": "Elephant",
+      "total": 26
+    },
+    {
+      "category": "Animal",
+      "label": "Fish",
+      "total": 61
+    },
+    {
+      "category": "Animal",
+      "label": "Horse",
+      "total": 33
+    },
+    {
+      "category": "Animal",
+      "label": "Lion",
+      "total": 65
+    },
+    {
+      "category": "Animal",
+      "label": "Monkey",
+      "total": 55
+    },
+    {
+      "category": "Animal",
+      "label": "Sheeps",
+      "total": 29
+    },
+
+    
     {
       "category": "Anime",
       "label": "Banner",
       "total": 9
+    },
+    {
+      "category": "Anime",
+      "label": "AOT",
+      "total": 36
+    },
+    {
+      "category": "Anime",
+      "label": "Black Clover",
+      "total": 26
+    },
+    {
+      "category": "Anime",
+      "label": "Demon Slayer",
+      "total": 50
+    },
+    {
+      "category": "Anime",
+      "label": "Dragon Ball",
+      "total": 28
+    },
+    {
+      "category": "Anime",
+      "label": "JJK",
+      "total": 25
+    },
+    {
+      "category": "Anime",
+      "label": "Kung Fu Panda",
+      "total": 49
     },
     {
       "category": "Anime",
@@ -23,8 +85,60 @@
     },
     {
       "category": "Anime",
-      "label": "AOT",
-      "total": 36
+      "label": "One Piece",
+      "total": 42
+    },
+    {
+      "category": "Anime",
+      "label": "Pokemon",
+      "total": 48
+    },
+
+
+    
+    {
+      "category": "Artwork",
+      "label": "Text Art",
+      "total": 20
+    },
+
+
+    
+    {
+      "category": "Birds",
+      "label": "Parrots",
+      "total": 63
+    },
+
+
+    {
+      "category": "Flowers",
+      "label": "Sun Flowers",
+      "total": 28
+    },
+
+
+    {
+      "category": "For Kids",
+      "label": "Alphabets",
+      "total": 64
+    },
+    {
+      "category": "For Kids",
+      "label": "Home",
+      "total": 49
+    },
+
+    
+    {
+      "category": "Fruits",
+      "label": "Apple",
+      "total": 60
+    },
+    {
+      "category": "Fruits",
+      "label": "Mango",
+      "total": 12
     }
   ]
 }
