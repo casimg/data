@@ -109,12 +109,22 @@
       "label": "Parrots",
       "total": 63
     },
+    {
+      "category": "Birds",
+      "label": "Sparrow",
+      "total": 25
+    },
 
 
     {
       "category": "Flowers",
-      "label": "Sun Flowers",
-      "total": 28
+      "label": "Sun Flower",
+      "total": 21
+    },
+    {
+      "category": "Flowers",
+      "label": "Rose",
+      "total": 25
     },
 
 
@@ -137,8 +147,23 @@
     },
     {
       "category": "Fruits",
+      "label": "Banana",
+      "total": 12
+    },
+    {
+      "category": "Fruits",
+      "label": "Grapes",
+      "total": 15
+    },
+    {
+      "category": "Fruits",
       "label": "Mango",
       "total": 12
+    },
+    {
+      "category": "Fruits",
+      "label": "Strawberry",
+      "total": 17
     }
   ]
 }
