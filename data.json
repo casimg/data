@@ -1,6 +1,19 @@
 {
-  "dataVersion": 4,
+  "dataVersion": 5,
   "images": [
+
+    {
+      "category": "Ramadan",
+      "label": "Banner",
+      "total": 5
+    },
+    {
+      "category": "Ramadan",
+      "label": "Ramadan",
+      "total": 45
+    },
+
+
     {
       "category": "Animal",
       "label": "Cats",
