@@ -1,5 +1,5 @@
 {
-  "dataVersion": 6,
+  "dataVersion": 7,
   "images": [
 
     {
@@ -112,7 +112,7 @@
     {
       "category": "Artwork",
       "label": "Text Art",
-      "total": 20
+      "total": 64
     },
 
 
