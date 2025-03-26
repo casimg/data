@@ -1,5 +1,5 @@
 {
-  "dataVersion": 7,
+  "dataVersion": 8,
   "images": [
 
     {
@@ -114,6 +114,73 @@
       "label": "Text Art",
       "total": 64
     },
+
+
+
+    {
+      "category": "Anatomy",
+      "label": "Face",
+      "total": 6
+    },
+    {
+      "category": "Anatomy",
+      "label": "Lips",
+      "total": 7
+    },
+    {
+      "category": "Anatomy",
+      "label": "Eyes",
+      "total": 8
+    },
+    {
+      "category": "Anatomy",
+      "label": "Ear",
+      "total": 2
+    },
+    {
+      "category": "Anatomy",
+      "label": "Nose",
+      "total": 3
+    },
+    {
+      "category": "Anatomy",
+      "label": "Hand",
+      "total": 6
+    },
+    {
+      "category": "Anatomy",
+      "label": "Foot",
+      "total": 5
+    },
+
+
+
+    {
+      "category": "Vehicles",
+      "label": "Cars",
+      "total": 8
+    },
+    {
+      "category": "Vehicles",
+      "label": "Bikes",
+      "total": 7
+    },
+    {
+      "category": "Vehicles",
+      "label": "Cycle",
+      "total": 7
+    },
+    {
+      "category": "Vehicles",
+      "label": "Aeroplan",
+      "total": 5
+    },
+    {
+      "category": "Vehicles",
+      "label": "Boat",
+      "total": 12
+    },
+
 
 
     
