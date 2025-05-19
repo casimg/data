@@ -1,0 +1,237 @@
+{
+  "dataVersion": 9,
+  "images": [
+
+    {
+      "category": "Animal",
+      "label": "Cats",
+      "total": 234
+    },
+    {
+      "category": "Animal",
+      "label": "Dogs",
+      "total": 157
+    },
+    {
+      "category": "Animal",
+      "label": "Elephant",
+      "total": 26
+    },
+    {
+      "category": "Animal",
+      "label": "Fish",
+      "total": 61
+    },
+    {
+      "category": "Animal",
+      "label": "Horse",
+      "total": 33
+    },
+    {
+      "category": "Animal",
+      "label": "Lion",
+      "total": 65
+    },
+    {
+      "category": "Animal",
+      "label": "Monkey",
+      "total": 55
+    },
+    {
+      "category": "Animal",
+      "label": "Sheeps",
+      "total": 29
+    },
+
+    
+    {
+      "category": "Anime",
+      "label": "Banner",
+      "total": 9
+    },
+    {
+      "category": "Anime",
+      "label": "AOT",
+      "total": 36
+    },
+    {
+      "category": "Anime",
+      "label": "Black Clover",
+      "total": 26
+    },
+    {
+      "category": "Anime",
+      "label": "Demon Slayer",
+      "total": 50
+    },
+    {
+      "category": "Anime",
+      "label": "Dragon Ball",
+      "total": 28
+    },
+    {
+      "category": "Anime",
+      "label": "JJK",
+      "total": 25
+    },
+    {
+      "category": "Anime",
+      "label": "Kung Fu Panda",
+      "total": 49
+    },
+    {
+      "category": "Anime",
+      "label": "Naruto",
+      "total": 44
+    },
+    {
+      "category": "Anime",
+      "label": "One Piece",
+      "total": 42
+    },
+    {
+      "category": "Anime",
+      "label": "Pokemon",
+      "total": 48
+    },
+
+
+    
+    {
+      "category": "Artwork",
+      "label": "Text Art",
+      "total": 64
+    },
+
+
+
+    {
+      "category": "Anatomy",
+      "label": "Face",
+      "total": 6
+    },
+    {
+      "category": "Anatomy",
+      "label": "Lips",
+      "total": 7
+    },
+    {
+      "category": "Anatomy",
+      "label": "Eyes",
+      "total": 8
+    },
+    {
+      "category": "Anatomy",
+      "label": "Ear",
+      "total": 2
+    },
+    {
+      "category": "Anatomy",
+      "label": "Nose",
+      "total": 3
+    },
+    {
+      "category": "Anatomy",
+      "label": "Hand",
+      "total": 6
+    },
+    {
+      "category": "Anatomy",
+      "label": "Foot",
+      "total": 5
+    },
+
+
+
+    {
+      "category": "Vehicles",
+      "label": "Cars",
+      "total": 8
+    },
+    {
+      "category": "Vehicles",
+      "label": "Bikes",
+      "total": 7
+    },
+    {
+      "category": "Vehicles",
+      "label": "Cycle",
+      "total": 7
+    },
+    {
+      "category": "Vehicles",
+      "label": "Aeroplan",
+      "total": 5
+    },
+    {
+      "category": "Vehicles",
+      "label": "Boat",
+      "total": 12
+    },
+
+
+
+    
+    {
+      "category": "Birds",
+      "label": "Parrots",
+      "total": 62
+    },
+    {
+      "category": "Birds",
+      "label": "Sparrow",
+      "total": 25
+    },
+
+
+    {
+      "category": "Flowers",
+      "label": "Sun Flower",
+      "total": 21
+    },
+    {
+      "category": "Flowers",
+      "label": "Rose",
+      "total": 25
+    },
+
+
+    {
+      "category": "For Kids",
+      "label": "Alphabets",
+      "total": 64
+    },
+    {
+      "category": "For Kids",
+      "label": "Home",
+      "total": 49
+    },
+
+    
+    {
+      "category": "Fruits",
+      "label": "Apple",
+      "total": 60
+    },
+    {
+      "category": "Fruits",
+      "label": "Banana",
+      "total": 12
+    },
+    {
+      "category": "Fruits",
+      "label": "Grapes",
+      "total": 15
+    },
+    {
+      "category": "Fruits",
+      "label": "Mango",
+      "total": 12
+    },
+    {
+      "category": "Fruits",
+      "label": "Strawberry",
+      "total": 17
+    }
+  ]
+}
