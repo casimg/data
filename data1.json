@@ -5,7 +5,10 @@
     {
       "category": "Animal",
       "label": "Cats",
-      "total": 234
+      "total": 234,
+      "premium": [
+        1, 3, 4
+      ]
     },
     {
       "category": "Animal",
