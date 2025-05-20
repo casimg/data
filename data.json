@@ -1,5 +1,5 @@
 {
-  "dataVersion": 8,
+  "dataVersion": 9,
   "images": [
 
     {
@@ -244,6 +244,17 @@
       "category": "Fruits",
       "label": "Strawberry",
       "total": 17
+    },
+
+    {
+      "category": "Human",
+      "label": "Boy",
+      "total": 1
+    },
+    {
+      "category": "Human",
+      "label": "Girl",
+      "total": 2
     }
   ]
 }
