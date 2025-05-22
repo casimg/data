@@ -1,5 +1,5 @@
 {
-  "dataVersion": 11,
+  "dataVersion": 12,
   "images": [
 
     {
@@ -246,6 +246,18 @@
       "category": "Human",
       "label": "Girl",
       "total": 2
+    },
+
+
+    {
+      "category": "Lessons",
+      "label": "Lion",
+      "total": 10
+    },
+    {
+      "category": "Lessons",
+      "label": "Cat",
+      "total": 8
     }
   ]
 }
