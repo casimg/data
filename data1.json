@@ -1,6 +1,12 @@
 {
-  "dataVersion": 12,
+  "dataVersion": 13,
   "images": [
+
+    {
+      "category": "Trendy",
+      "label": "New",
+      "total": 18
+    },
 
     {
       "category": "Animal",
