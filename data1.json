@@ -1,11 +1,14 @@
 {
-  "dataVersion": 13,
+  "dataVersion": 14,
   "images": [
 
     {
       "category": "Trendy",
       "label": "New",
-      "total": 18
+      "total": 18,
+      "premium": [
+        1, 3, 4, 9
+      ]
     },
 
     {
