@@ -1,5 +1,5 @@
 {
-  "dataVersion": 14,
+  "dataVersion": 15,
   "images": [
 
     {
@@ -260,13 +260,38 @@
 
     {
       "category": "Lessons",
-      "label": "Lion",
+      "label": "Boy",
       "total": 10
     },
     {
       "category": "Lessons",
       "label": "Cat",
-      "total": 8
+      "total": 7
+    },
+    {
+      "category": "Lessons",
+      "label": "Girl",
+      "total": 6
+    },
+    {
+      "category": "Lessons",
+      "label": "Girl_1",
+      "total": 9
+    },
+    {
+      "category": "Lessons",
+      "label": "Lion",
+      "total": 6
+    },
+    {
+      "category": "Lessons",
+      "label": "Pockemon",
+      "total": 9
+    },
+    {
+      "category": "Lessons",
+      "label": "Girl_2",
+      "total": 12
     }
   ]
 }
