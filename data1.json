@@ -22,89 +22,106 @@
     {
       "category": "Animal",
       "label": "Dogs",
-      "total": 157
+      "total": 157,
+      "premium": []
     },
     {
       "category": "Animal",
       "label": "Elephant",
-      "total": 26
+      "total": 26,
+      "premium": []
     },
     {
       "category": "Animal",
       "label": "Fish",
-      "total": 61
+      "total": 61,
+      "premium": []
     },
     {
       "category": "Animal",
       "label": "Horse",
-      "total": 33
+      "total": 33,
+      "premium": []
     },
     {
       "category": "Animal",
       "label": "Lion",
-      "total": 65
+      "total": 65,
+      "premium": []
     },
     {
       "category": "Animal",
       "label": "Monkey",
-      "total": 55
+      "total": 55,
+      "premium": []
     },
     {
       "category": "Animal",
       "label": "Sheeps",
-      "total": 29
+      "total": 29,
+      "premium": []
     },
 
     
     {
       "category": "Anime",
       "label": "Banner",
-      "total": 9
+      "total": 9,
+      "premium": []
     },
     {
       "category": "Anime",
       "label": "AOT",
-      "total": 36
+      "total": 36,
+      "premium": []
     },
     {
       "category": "Anime",
       "label": "Black Clover",
-      "total": 26
+      "total": 26,
+      "premium": []
     },
     {
       "category": "Anime",
       "label": "Demon Slayer",
-      "total": 50
+      "total": 50,
+      "premium": []
     },
     {
       "category": "Anime",
       "label": "Dragon Ball",
-      "total": 28
+      "total": 28,
+      "premium": []
     },
     {
       "category": "Anime",
       "label": "JJK",
-      "total": 25
+      "total": 25,
+      "premium": []
     },
     {
       "category": "Anime",
       "label": "Kung Fu Panda",
-      "total": 49
+      "total": 49,
+      "premium": []
     },
     {
       "category": "Anime",
       "label": "Naruto",
-      "total": 44
+      "total": 44,
+      "premium": []
     },
     {
       "category": "Anime",
       "label": "One Piece",
-      "total": 42
+      "total": 42,
+      "premium": []
     },
     {
       "category": "Anime",
       "label": "Pokemon",
-      "total": 48
+      "total": 48,
+      "premium": []
     },
 
 
@@ -112,7 +129,8 @@
     {
       "category": "Artwork",
       "label": "Text Art",
-      "total": 64
+      "total": 64,
+      "premium": []
     },
 
 
@@ -120,37 +138,46 @@
     {
       "category": "Anatomy",
       "label": "Face",
-      "total": 6
+      "total": 6,
+      "premium": []
     },
     {
       "category": "Anatomy",
       "label": "Lips",
-      "total": 7
+      "total": 7,
+      "premium": []
     },
     {
       "category": "Anatomy",
       "label": "Eyes",
-      "total": 8
+      "total": 8,
+      "premium": []
     },
     {
       "category": "Anatomy",
       "label": "Ear",
-      "total": 2
+      "total": 2,
+      "premium": [
+        1
+      ]
     },
     {
       "category": "Anatomy",
       "label": "Nose",
-      "total": 3
+      "total": 3,
+      "premium": []
     },
     {
       "category": "Anatomy",
       "label": "Hand",
-      "total": 6
+      "total": 6,
+      "premium": []
     },
     {
       "category": "Anatomy",
       "label": "Foot",
-      "total": 5
+      "total": 5,
+      "premium": []
     },
 
 
@@ -158,27 +185,32 @@
     {
       "category": "Vehicles",
       "label": "Cars",
-      "total": 8
+      "total": 8,
+      "premium": []
     },
     {
       "category": "Vehicles",
       "label": "Bikes",
-      "total": 7
+      "total": 7,
+      "premium": []
     },
     {
       "category": "Vehicles",
       "label": "Cycle",
-      "total": 7
+      "total": 7,
+      "premium": []
     },
     {
       "category": "Vehicles",
       "label": "Aeroplan",
-      "total": 5
+      "total": 5,
+      "premium": []
     },
     {
       "category": "Vehicles",
       "label": "Boat",
-      "total": 12
+      "total": 12,
+      "premium": []
     },
 
 
@@ -187,111 +219,131 @@
     {
       "category": "Birds",
       "label": "Parrots",
-      "total": 62
+      "total": 62,
+      "premium": []
     },
     {
       "category": "Birds",
       "label": "Sparrow",
-      "total": 25
+      "total": 25,
+      "premium": []
     },
 
 
     {
       "category": "Flowers",
       "label": "Sun Flower",
-      "total": 21
+      "total": 21,
+      "premium": []
     },
     {
       "category": "Flowers",
       "label": "Rose",
-      "total": 25
+      "total": 25,
+      "premium": []
     },
 
 
     {
       "category": "For Kids",
       "label": "Alphabets",
-      "total": 64
+      "total": 64,
+      "premium": []
     },
     {
       "category": "For Kids",
       "label": "Home",
-      "total": 49
+      "total": 49,
+      "premium": []
     },
 
     
     {
       "category": "Fruits",
       "label": "Apple",
-      "total": 60
+      "total": 60,
+      "premium": []
     },
     {
       "category": "Fruits",
       "label": "Banana",
-      "total": 12
+      "total": 12,
+      "premium": []
     },
     {
       "category": "Fruits",
       "label": "Grapes",
-      "total": 15
+      "total": 15,
+      "premium": []
     },
     {
       "category": "Fruits",
       "label": "Mango",
-      "total": 12
+      "total": 12,
+      "premium": []
     },
     {
       "category": "Fruits",
       "label": "Strawberry",
-      "total": 17
+      "total": 17,
+      "premium": []
     },
 
     {
       "category": "Human",
       "label": "Boy",
-      "total": 1
+      "total": 1,
+      "premium": []
     },
     {
       "category": "Human",
       "label": "Girl",
-      "total": 2
+      "total": 2,
+      "premium": []
     },
 
 
     {
       "category": "Lessons",
       "label": "Boy",
-      "total": 10
+      "total": 10,
+      "premium": []
     },
     {
       "category": "Lessons",
       "label": "Cat",
-      "total": 7
+      "total": 7,
+      "premium": []
     },
     {
       "category": "Lessons",
       "label": "Girl",
-      "total": 6
+      "total": 6,
+      "premium": []
     },
     {
       "category": "Lessons",
       "label": "Girl_1",
-      "total": 9
+      "total": 9,
+      "premium": []
     },
     {
       "category": "Lessons",
       "label": "Lion",
-      "total": 6
+      "total": 6,
+      "premium": []
     },
     {
       "category": "Lessons",
       "label": "Pockemon",
-      "total": 9
+      "total": 9,
+      "premium": []
     },
     {
       "category": "Lessons",
       "label": "Girl_2",
-      "total": 12
+      "total": 12,
+      "premium": []
     }
   ]
 }
