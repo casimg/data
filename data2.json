@@ -1,5 +1,5 @@
 {
-  "dataVersion": 17,
+  "dataVersion": 18,
   "images": [
 
     {
@@ -427,6 +427,60 @@
       "category": "Lessons",
       "label": "Girl_2",
       "total": 12,
+      "premium": []
+    },
+    {
+      "category": "Lessons",
+      "label": "Girl_3",
+      "total": 18,
+      "premium": []
+    },
+    {
+      "category": "Lessons",
+      "label": "Jeep",
+      "total": 10,
+      "premium": []
+    },
+    {
+      "category": "Lessons",
+      "label": "Girl_4",
+      "total": 9,
+      "premium": []
+    },
+    {
+      "category": "Lessons",
+      "label": "Dog",
+      "total": 11,
+      "premium": []
+    },
+    {
+      "category": "Lessons",
+      "label": "Boy_2",
+      "total": 13,
+      "premium": []
+    },
+    {
+      "category": "Lessons",
+      "label": "Bike",
+      "total": 9,
+      "premium": []
+    },
+    {
+      "category": "Lessons",
+      "label": "Boy_1",
+      "total": 15,
+      "premium": []
+    },
+    {
+      "category": "Lessons",
+      "label": "Goko",
+      "total": 15,
+      "premium": []
+    },
+    {
+      "category": "Lessons",
+      "label": "Nauroto",
+      "total": 19,
       "premium": []
     }
   ]
